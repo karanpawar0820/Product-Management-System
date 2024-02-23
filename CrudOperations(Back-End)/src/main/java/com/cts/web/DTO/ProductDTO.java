@@ -1,7 +1,5 @@
 package com.cts.web.DTO;
 
-import jakarta.persistence.Column;
-
 public class ProductDTO {
 	private String productcategory;
 	private String productname;
